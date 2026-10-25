@@ -17,3 +17,5 @@ pnpm build      # dist/index.js
 ```
 
 `.env` et `storage/` (fichiers envoyés) restent locaux, jamais dans Git.
+
+Mise en ligne sur un VPS Dokploy : voir `DEPLOIEMENT.md` dans le dépôt [front-neon](https://github.com/taha43584/front-neon).
