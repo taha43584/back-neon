@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787180828543,
+      "tag": "0000_crazy_stephen_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787181659158,
+      "tag": "0001_tearful_toro",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787182198603,
+      "tag": "0002_abandoned_paibok",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1787182714570,
+      "tag": "0003_omniscient_old_lace",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1787183047251,
+      "tag": "0004_aspiring_dorian_gray",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1787183126747,
+      "tag": "0005_mute_black_bird",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1787183710461,
+      "tag": "0006_melted_wildside",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1787184083313,
+      "tag": "0007_common_dreadnoughts",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1787185426056,
+      "tag": "0008_giant_pride",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1788052324119,
+      "tag": "0009_wealthy_vision",
+      "breakpoints": true
+    }
+  ]
+}
